@@ -62,6 +62,17 @@ to rapid housing price growth.
 By 2024, affordability stabilized at 
 approximately 11.5 m² per annual wage.
 
+### Key Findings
+
+- Between 2010 and 2024, wages grew
+  faster than housing prices in the long term.
+- Housing affordability improved
+  steadily until 2019, reaching its peak
+  of 12 m² per annual wage.
+- After 2020, rapid housing price
+  growth temporarily reduced affordability.
+- By 2024, affordability stabilized at
+  approximately 11.5 m² per annual wage.
 
 
 
