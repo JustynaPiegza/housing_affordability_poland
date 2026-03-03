@@ -15,5 +15,19 @@ This analysis helps understand how housing affordability changed over time and s
 
 ---
 
-## 2. Research Question 1 – Market Trend
+## 2. Data & Methodology
+
+Data source:
+- Statistic Poland (GUS) - average monthly gross wages in Poland (2010–2024)
+- Statistic Poland (GUS) - average transaction prices per m² (2010–2024)
+
+Steps:
+1. Cleaned and structured raw data in Excel.
+2. Created wage and housing price index (2010 = 100).
+3. Calculated housing affordability:
+   Affordability = (monthly wage × 12) / price per m²
+4. Visualized trends using line charts.
+
+---
+## 3. Research Question 1 – Market Trend
 Did housing prices increase faster than average wages in Poland between 2010 and 2024?
