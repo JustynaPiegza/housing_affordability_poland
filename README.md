@@ -31,3 +31,40 @@ Steps:
 ---
 ## 3. Research Question 1 – Market Trend
 Did housing prices increase faster than average wages in Poland between 2010 and 2024?
+
+This section analyzes national housing market trends between 2010 and 2024.
+To compare long-term growth, wage and housing price indices were created
+(2010 = 100 as base year).
+
+![Wage vs Housing Price Index](images/wage_vs_price_index.png)
+
+Between 2010 and 2024, wages increased 
+from index 100 to 251, while housing 
+prices increased from 100 to 197.
+
+In the long term, wages grew faster 
+than housing prices.
+
+However, after 2020, housing prices 
+accelerated significantly, which 
+temporarily reduced housing affordability.
+
+![Housing Affordability](images/housing_affordability_poland.png)
+
+Housing affordability improved 
+steadily between 2010 and 2019,
+reaching its peak in 2019 (12 m² per 
+annual wage).
+
+After 2020, affordability declined due 
+to rapid housing price growth.
+
+By 2024, affordability stabilized at 
+approximately 11.5 m² per annual wage.
+
+
+
+
+
+
+
