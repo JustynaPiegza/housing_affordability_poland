@@ -84,7 +84,7 @@ To better understand this change,
 we compare wages, housing prices,
 and affordability between 2019 and 2024.
 
-![Housing Affordability Change (2019-2024)](images/affordability_change_2019_2014.png)
+![Housing Affordability Change (2019-2024)](images/affordability_change_2019_2024.png)
 
 Between 2019 and 2024, housing prices 
 increased faster than wages in Poland.
@@ -97,8 +97,8 @@ As a result, housing affordability slightly decreased.
 The affordability indicator declined from 12.0 m² per 
 annual wage in 2019 to 11.5 m² in 2024.
 
-This period marks a turning point, when rapid 
-housing price growth began to outpace wage growth.
+This period marks a turning point, when housing 
+price growth began to outpace wage growth.
 
 
 
