@@ -101,5 +101,33 @@ This period marks a turning point, when housing
 price growth began to outpace wage growth.
 
 
+## 5. Regional Analysis (2024)
+
+To better understand regional 
+differences in housing affordability, 
+the analysis compares the affordability 
+index across Polish regions in 2024.
+
+The affordability index represents how many 
+square meters of housing can be purchased 
+with the average annual wage in each region.
+
+### Descriptive statistic - housing affordability across regions (2024)
+
+![Affordability statistics](images/affordability_statistics_regions_2024.png)
+
+The average housing affordability 
+across regions in 2024 was 12.52 m² 
+per annual wage.
+
+However, the range between the least 
+and most affordable regions is 
+significant, varying from 8.96 m² to 15.27 m².
+
+This suggests noticeable regional 
+disparities in housing affordability 
+across Poland.
+
+
 
 
