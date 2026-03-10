@@ -129,5 +129,60 @@ disparities in housing affordability
 across Poland.
 
 
+### Distribution of housing affordability across regions 
+
+![Housing affordability boxplot](images/affordability_boxplot_2024.png)
+
+Boxplot - housing affordability across Polish regions (2024)
+
+The boxplot illustrates the distribution 
+of housing affordability across regions.
+
+The median affordability is 12.42 m² 
+per annual wage, meaning that half 
+of the regions fall above this level 
+and half below it.
+
+Most regions fall within a relatively 
+narrow range, but a few regions 
+show significantly higher or lower 
+affordability levels.
+
+### Regional ranking (2024)
+
+![Regional housing affordability ranking](images/regional_affordability_ranking_2024.png)
+
+The regional ranking highlights clear 
+differences in housing affordability 
+across regions.
+
+Opolskie, Śląskie, and Lubuskie show 
+the highest affordability levels, 
+exceeding 15 m² per annual wage.
+
+In contrast, Małopolskie, Mazowieckie, 
+and Pomorskie have the lowest affordability levels, 
+all below approximately 11 m² per annual wage.
 
 
+### Interpretation 
+
+Lower housing affordability in regions
+such as Mazowieckie and Małopolskie may 
+be influenced by strong housing demand 
+in major metropolitan areas such as Warsaw and Kraków.
+
+In contrast, regions with smaller urban 
+centers tend to exhibit higher housing 
+affordability.
+
+This pattern suggests that regional 
+housing affordability in Poland is 
+strongly influenced by the presence 
+of large metropolitan housing markets.
+
+The similarity between the mean and
+median values also suggest that 
+housing affordability across regions 
+is relatively evenly distributed,
+without extreme outliers.
