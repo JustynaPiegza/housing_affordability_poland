@@ -131,7 +131,7 @@ across Poland.
 
 ### Distribution of housing affordability across regions 
 
-![Housing affordability boxplot](images/affordability_boxplot_2024.png)
+![Housing affordability boxplot](images/affordability_boxplot_regions_2024.png)
 
 Boxplot - housing affordability across Polish regions (2024)
 
