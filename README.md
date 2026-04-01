@@ -21,12 +21,19 @@ Data source:
 - Statistics Poland (GUS) - average monthly gross wages in Poland (2010–2024)
 - Statistics Poland (GUS) - average transaction prices per m² (2010–2024)
 
+Methodology:
+- The analysis measures housing affordability as the number of square meters 
+  that can be purchased with an average annual salary.
+- Affordability was calculated using the formula:
+- Affordability = (monthly wage × 12) / price per m²
+- This metric allows for a direct comparison between income and housing 
+  prices over time.
+
 Steps:
 1. Cleaned and structured raw data in Excel.
-2. Created wage index and housing price index (2010 = 100 as base year).
-3. Calculated housing affordability:
+2. Calculated housing affordability:
    Affordability = (monthly wage × 12) / price per m²
-4. Visualized trends using line charts in Excel and Pwer BI
+3. Visualized trends using line charts in Excel and Pwer BI
 
 ---
 ## 3. Research Question 1 – Market Trend
