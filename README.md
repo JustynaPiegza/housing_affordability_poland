@@ -111,22 +111,24 @@ price growth began to outpace wage growth.
 ---
 ## 5. Regional Analysis (2024)
 
-While the national trend shows overall
-changes in housing affordability over time,
-it may hide significant regional differences.
+While the national trend shows overall changes 
+in housing affordability over time, it may 
+hide significant regional differences.
 
-To explore this further, the analysis was
-extended to the regional level, 
+To better understand the variation across Poland, 
+the analysis was extended to the regional level, 
 comparing housing affordability across 
 Polish regions in 2024.
 
-The same affordability metric was used
-at the regional level to ensure consistency
-with the national analysis.
+The same affordability metric was used to ensure 
+consistency with the national analysis. 
+It represents how many square meters of housing 
+can be purchased with the average annual wage 
+in each region.
 
-The affordability index represents how many 
-square meters of housing can be purchased 
-with the average annual wage in each region.
+The goal of this section is to identify which 
+regions are more or less affordable and assess
+how large these differences are.
 
 
 ### Descriptive statistics - housing affordability across regions (2024)
