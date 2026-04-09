@@ -117,8 +117,8 @@ hide significant regional differences.
 
 To better understand the variation across Poland, 
 the analysis was extended to the regional level, 
-comparing housing affordability across 
-Polish regions in 2024.
+comparing housing affordability 
+across Polish regions in 2024.
 
 The same affordability metric was used to ensure 
 consistency with the national analysis. 
